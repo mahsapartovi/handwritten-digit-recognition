@@ -6,4 +6,4 @@ Requirements:
 3) Matplotlib
 
 
-in this project i use Machine Learning Algorithms & Deep Neural Networks
+in this project, I used Machine Learning techniques & Deep Neural Networks
